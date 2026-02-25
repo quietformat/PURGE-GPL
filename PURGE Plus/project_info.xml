@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProjectSettings>
+  <Name value="PURGE Plus"/>
+  <Version value="1.0.0"/>
+  <Description value=""/>
+  <BundleIdentifier value="com.quietformat.purgeplus"/>
+  <PluginCode value="Qtpg"/>
+  <EmbedAudioFiles value="Yes"/>
+  <EmbedImageFiles value="Yes"/>
+  <SupportFullDynamicsHLAC value="No"/>
+  <AdditionalDspLibraries value=""/>
+  <OSXStaticLibs value=""/>
+  <WindowsStaticLibFolder value=""/>
+  <ExtraDefinitionsWindows value="HISE_NUM_FX_PLUGIN_CHANNELS=4"/>
+  <ExtraDefinitionsOSX value="HISE_NUM_FX_PLUGIN_CHANNELS=4"/>
+  <ExtraDefinitionsIOS value=""/>
+  <ExtraDefinitionsLinux value=""/>
+  <ExtraDefinitionsNetworkDll value=""/>
+  <AppGroupID value=""/>
+  <RedirectSampleFolder value=""/>
+  <AAXCategoryFX value="AAX_ePlugInCategory_EQ"/>
+  <VST3Category value="EQ"/>
+  <SupportMonoFX value="No"/>
+  <EnableMidiInputFX value="No"/>
+  <EnableMidiOut value="No"/>
+  <EnableSoundGeneratorsFX value="No"/>
+  <VST3Support value="Yes"/>
+  <UseRawFrontend value="No"/>
+  <ExpansionType value="FilesOnly"/>
+  <EncryptionKey value="quietformat.2026.purgeplus"/>
+  <LinkExpansionsToProject value="No"/>
+  <ReadOnlyFactoryPresets value="1"/>
+  <ForceStereoOutput value="No"/>
+  <AdminPermissions value="No"/>
+  <EmbedUserPresets value="Yes"/>
+  <OverwriteOldUserPresets value="No"/>
+  <EnableGlobalPreprocessor value="No"/>
+  <UseGlobalAppDataFolderWindows value="No"/>
+  <UseGlobalAppDataFolderMacOS value="No"/>
+  <DefaultUserPreset value=""/>
+  <CompileWithPerfetto value="No"/>
+  <CompileWithDebugSymbols value="No"/>
+  <IncludeLorisInFrontend value="No"/>
+  <ProjectType value="FX plugin"/>
+</ProjectSettings>
